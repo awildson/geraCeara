@@ -1,0 +1,184 @@
+1	Fortaleza	2 627 482	Capital do Estado do Ceará
+2	Caucaia	362 223	Região Metropolitana de Fortaleza
+3	Juazeiro do Norte	270 383	Região Metropolitana do Cariri
+4	Maracanaú	224 804	Região Metropolitana de Fortaleza
+5	Sobral	205 529	Região Metropolitana de Sobral
+6	Crato	130 604	Cariri
+7	Itapipoca	127 465	Vale do Curu
+8	Maranguape	126 486	Região Metropolitana de Fortaleza
+9	Iguatu	102 614	Centro Sul
+10	Crateús	102 750	Sertões Crateuenses
+11	Quixadá	86 605	Sertão Central		
+12	Cascavel	85 824	Região Metropolitana de Fortaleza		
+13	Aquiraz	79 128	Região Metropolitana de Fortaleza
+14	Quixeramobim	78 658	Sertão Central
+15	Canindé	77 514	Sertão de Canindé
+16	Russas	76 475	Vale do Jaguaribe
+17	Tianguá	74 719	Serra da Ibiapaba
+18	Aracati	73 629	Litoral Leste
+19	Pacatuba	71 079	Região Metropolitana de Fortaleza
+20	Pacajus	70 911	Região Metropolitana de Fortaleza
+21	Icó	67 486	Centro Sul
+22	Horizonte	65 928	Região Metropolitana de Fortaleza
+23	Camocim	62 985	Litoral Norte
+24	Acaraú	62 199	Litoral Norte
+25	Morada Nova	61 548	Vale do Jaguaribe
+26	São Benedito	60 030	Serra da Ibiapaba
+27	Barbalha	59 811	Cariri
+28	Limoeiro do Norte	58 915	Vale do Jaguaribe
+29	Tauá	58 119	Sertão dos Inhamuns
+30	Trairi	55 207	Vale do Curu
+31	Granja	54 365	Litoral Norte
+32	Boa Viagem	54 049	Sertão de Canindé
+33	Acopiara	53 572	Centro Sul
+34	Beberibe	53 110	Litoral Leste
+35	Eusébio	52 667	Região Metropolitana de Fortaleza
+36	Itapajé	51 945	Vale do Curu
+37	Brejo Santo	48 830	Cariri
+38	São Gonçalo do Amarante	48 265	Região Metropolitana de Fortaleza
+39	Viçosa do Ceará	46 648	Serra da Ibiapaba
+40	Mauriti	46 548	Cariri
+41	Mombaça	43 735	Sertão Central
+42	Santa Quitéria	43 360	Sertão dos Crateús
+43	Amontada	42 901	Vale do Curu
+44	Pedra Branca	42 841	Sertão Central
+45	Ipu	41 576	Serra da Ibiapaba
+46	Itarema	41 230	Litoral Norte
+47	Várzea Alegre	40 440	Cariri
+48	Guaraciaba do Norte	39 445	Serra da Ibiapaba
+49	Itaitinga	39 310	Região Metropolitana de Fortaleza
+50	Massapê	38 210	Sertão de Sobral
+51	Ipueiras	37 896	Sertão dos Crateús
+52	Pentecoste	37 077	Vale do Curu
+53	Missão Velha	35 409	Cariri
+54	Baturité	35 351	Maciço de Baturité
+55	Jaguaribe	34 448	Vale do Jaguaribe
+56	Ubajara	34 332	Serra da Ibiapaba
+57	Paracuru	33 894	Vale do Curu
+58	Jaguaruana	33 740	Litoral Leste
+59	Paraipaba	32 515	Vale do Curu
+60	Bela Cruz	32 378	Litoral Norte
+61	Nova Russas	32 035	Sertão dos Crateús
+62	Santana do Acaraú	32 023	Sertão de Sobral
+63	Lavras da Mangabeira	31 335	Centro Sul
+64	Parambu	31 137	Sertão dos Inhamuns
+65	Tabuleiro do Norte	30 489	Vale do Jaguaribe
+66	Milagres	28 231	Cariri
+67	Novo Oriente	28 353	Sertão dos Crateús
+68	Redenção	27 441	Maciço de Baturité
+69	Campos Sales	27 209	Cariri
+70	Jardim	27 076	Cariri
+71	Marco	26 981	Litoral Norte
+72	Caririaçu	26 892	Cariri
+73	Senador Pompeu	26 447	Sertão Central
+74	Guaiúba	26 331	Região Metropolitana de Fortaleza
+75	Aracoiaba	26 269	Maciço de Baturité
+76	Independência	25 967	Sertão dos Crateús
+77	Tamboril	25 525	Sertão dos Crateús
+78	Ocara	25 394	Maciço de Baturité
+79	Cedro	25 063	Centro Sul
+80	Ibiapina	24 825	Serra da Ibiapaba
+81	Jucás	24 597	Centro Sul
+82	Aurora	24 496	Cariri
+83	Forquilha	24 047	Sertão de Sobral
+84	Cruz	23 983	Litoral Norte
+85	Irauçuba	23 858	Vale do Curu
+86	Assaré	23 254	Cariri
+87	Coreaú	23 107	Sertão de Sobral
+88	Barro	22 440	Cariri
+89	Caridade	22 320	Sertão de Canindé
+90	Morrinhos	22 222	Litoral Norte
+91	Quixeré	21 876	Vale do Jaguaribe
+92	Uruburetama	21 609	Vale do Curu
+93	Araripe	21 398	Cariri
+94	Orós	21 292	Centro Sul
+95	Barreira	20 978	Maciço de Baturité
+96	Quiterianópolis	20 860	Sertão dos Inhamuns
+97	Itatira	20 675	Sertão de Canindé
+98	Pindoretama	20 644	Região Metropolitana de Fortaleza
+99	Catarina	20 451	Centro Sul
+100	Hidrolândia	20 215	Sertão dos Crateús
+101	Itapiúna	20 014	Maciço de Baturité
+102	Madalena	19 800	Sertão de Madalena
+103	Icapuí	19 685	Litoral Leste
+104	Umirim	19 679	Sertão de Sobral
+105	Jijoca de Jericoacoara	19 510	Litoral Norte
+106	Chorozinho	19 197	Região Metropolitana de Fortaleza
+107	Tejuçuoca	18 902	Sertão de Sobral
+108	Cariús	18 804	Centro Sul
+109	Reriutaba	18 769	Sertão de Sobral
+110	Farias Brito	18 720	Cariri
+111	Cariré	18 660	Sertão de Sobral
+112	Varjota	18 239	Sertão de Sobral
+113	Solonópole	18 158	Sertão Central
+114	Banabuiú	18 027	Sertão Central
+115	Jaguaretama	17 958	Vale do Jaguaribe
+116	Croatá	17 874	Serra da Ibiapaba
+117	Capistrano	17 668	Maciço de Baturité
+118	Carnaubal	17 631	Serra da Ibiapaba
+119	Santana do Cariri	17 489	Cariri
+120	Aiuaba	17 194	Sertão dos Inhamuns
+121	Monsenhor Tabosa	17 038	Sertão dos Crateús
+122	Alto Santo	16 976	Vale do Jaguaribe
+123	Piquet Carneiro	16 731	Sertão Central
+124	Acarape	16 543	Maciço de Baturité
+125	Salitre	16 331	Cariri
+126	Fortim	16 272	Litoral Leste
+127	Pereiro	16 163	Vale do Jaguaribe
+128	Tururu	15 935	Vale do Curu
+129	Saboeiro	15 678	Centro Sul
+130	Nova Olinda	15 433	Cariri
+131	Graça	15 307	Sertão de Sobral
+132	Meruoca	14 948	Sertão de Sobral
+133	Porteiras	14 921	Cariri
+134	Barroquinha	14 880	Litoral Norte
+135	Quixelô	14 860	Centro Sul
+136	Apuiarés	14 719	Vale do Curu
+137	Mucambo	14 377	Sertão de Sobral
+138	Iracema	14 125	Vale do Jaguaribe
+139	Uruoca	13 677	Litoral Norte
+140	Frecheirinha	13 669	Sertão de Sobral
+141	Miraíma	13 583	Vale do Curu
+142	Choró	13 384	Sertão Central
+143	Ibaretama	13 218	Sertão Central
+144	Palmácia	13 214	Maciço de Baturité
+145	Milhã	13 136	Sertão Central
+146	Chaval	12 952	Litoral Norte
+147	São Luís do Curu	12 849	Vale do Curu
+148	Mulungu	12 831	Maciço de Baturité
+149	Ibicuitinga	12 350	Sertão Central
+150	Ipaumirim	12 349	Centro Sul
+151	Poranga	12 243	Sertão dos Crateús
+152	Pacoti	11 960	Maciço de Baturité
+153	Abaiara	11 605	Cariri
+154	Paramoti	11 578	Sertão de Canindé
+155	Ipaporanga	11 499	Sertão dos Crateús
+156	Alcântaras	11 459	Sertão de Sobral
+157	Jaguaribara	11 295	Vale do Jaguaribe
+158	Aratuba	11 244	Maciço de Baturité
+159	Martinópole	11 082	Litoral Norte
+160	Groaíras	11 012	Sertão de Sobral
+161	Potengi	10 918	Cariri
+162	Ararendá	10 823	Sertão dos Crateús
+163	Pires Ferreira	10 784	Sertão de Sobral
+164	Catunda	10 365	Sertão dos Crateús
+165	Deputado Irapuan Pinheiro	9 521	Sertão Central
+166	Palhano	9 285	Vale do Jaguaribe
+167	Penaforte	8 956	Cariri
+168	Tarrafas	8 852	Cariri
+169	Moraújo	8 636	Sertão de Sobral
+170	Jati	7 847	Cariri
+171	Arneiroz	7 777	Sertão dos Inhamuns
+172	Itaiçaba	7 738	Litoral Leste
+173	Umari	7 671	Centro Sul
+174	São João do Jaguaribe	7 621	Vale do Jaguaribe
+175	Senador Sá	7 513	Sertão de Sobral
+176	Altaneira	7 479	Cariri
+177	Antonina do Norte	7 278	Cariri
+178	Ererê	7 163	Centro Sul
+179	General Sampaio	6 922	Vale do Curu
+180	Potiretama	6 356	Vale do Jaguaribe
+181	Baixio	6 228	Centro Sul
+182	Pacujá	6 202	Sertão de Sobral
+183	Granjeiro	4 425	Cariri
+184	Guaramiranga	3 547	Maciço de Baturité

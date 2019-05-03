@@ -1,6 +1,6 @@
-# geraCeara
-
 The basic goal this code is get roadway from OpenStreetMap and generate the a undirected graph with cities and your links.
+
+This case is for Ceara state on Brazil. For change, your need to put new coordinates into polygon.
 
 The path to get this is:
 1) get data from OSM
